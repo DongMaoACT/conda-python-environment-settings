@@ -1,5 +1,4 @@
 @echo off
-chcp 65001
 set /p env_name=please input conda python env_name:
 
 if "%env_name%"=="" (
