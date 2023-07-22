@@ -8,7 +8,9 @@ In the virtual python environment created in annaconda or miniconda, we can only
 ### Use
 
 1.Place the .change_envs.bat file in the envs folder under the installation directory of Annaconda or Miniconda to complete the configuration.  
+<div align="center">
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/fdf3c607-a80b-4025-a5c6-2d604b77d8d3" width="800">  
+</div>
 2.Run the .change_envs.bat file and enter any virtual Python environment name that exists in your envs file to complete the PATH setting or replacement.  
 
 
