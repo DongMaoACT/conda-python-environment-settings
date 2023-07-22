@@ -5,7 +5,7 @@ Set the conda virtual python environment as a user environment variable
 In the virtual python environment created in anaconda or miniconda, we can only activate your_python_env in cmd or Anaconda Prompt (Conda), but cannot conveniently switch them to the default environment of the computer. We need to specify the path in the PATH variable to make it take effect. Therefore, a script is designed to automatically execute this matter, so that we can manage the conda environment for development.  
 <div align="center">
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/4c678ac8-2119-4cd7-a8bc-30ca63f6996b" width="400">  
-</div>
+</div>  
 **I hope to directly python any instead of conda active xx in python any**  
 
 ### 2.Use
@@ -52,6 +52,6 @@ Every time an environment variable is set using a batch file it checks if the pa
 </div>
 <div align="center">
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/201ab968-d171-4cd7-862f-118aeec5a1a3" width="400">  
-</div>
+</div>  
 ### 3.原理
 每次使用批处理文件设置环境变量时都会检查PATH中是否已经存在该路径，如果存在则删除它。然后将设置的路径放置在PATH的最上方，使它的优先级最高。这样就可以随意的切换conda的虚拟python环境了。
