@@ -1,11 +1,11 @@
 # conda-python-environment-settings
 Set the conda virtual python environment as a user environment variable
 
-### Instructions
+### 1.Instructions
 In the virtual python environment created in annaconda or miniconda, we can only activate your_python_env in cmd or Anaconda Prompt (Conda), but cannot conveniently switch them to the default environment of the computer. We need to specify the path in the PATH variable to make it take effect. Therefore, a script is designed to automatically execute this matter, so that we can manage the conda environment for development.  
 
 
-### Use
+### 2.Use
 
 1.Place the .change_envs.bat file in the envs folder under the installation directory of Annaconda or Miniconda to complete the configuration.  
 <div align="center">
@@ -20,13 +20,13 @@ In the virtual python environment created in annaconda or miniconda, we can only
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="400">  
 </div>
 
-### Principle
+### 3.Principle
 Every time an environment variable is set using a batch file it checks if the path already exists in the PATH and deletes it if it does. Then place the set path at the top of PATH to give it the highest priority. In this way, you can switch the virtual python environment of conda at will.
 
-### 介绍
+### 1.介绍
 在annaconda或miniconda中创建的虚拟python环境，我们只能在cmd或者Anaconda Prompt (Conda)中activate your_python_env,而不能方便的切换他们到计算机默认环境中，我们需要在PATH变量中指定路径，才能使它生效。因此设计了一个脚本来自动的执行这件事情，方便我们管理conda环境来进行开发。
 
-### 使用方法
+### 2.使用方法
 1.将.change_envs.bat文件放置在Annaconda或Miniconda的安装目录下的envs文件夹下，即可完成配置。
 <div align="center">
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/fdf3c607-a80b-4025-a5c6-2d604b77d8d3" width="600">  
@@ -40,5 +40,5 @@ Every time an environment variable is set using a batch file it checks if the pa
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="400">  
 </div>
 
-### 原理
+### 3.原理
 每次使用批处理文件设置环境变量时都会检查PATH中是否已经存在该路径，如果存在则删除它。然后将设置的路径放置在PATH的最上方，使它的优先级最高。这样就可以随意的切换conda的虚拟python环境了。
