@@ -6,7 +6,7 @@ In the virtual python environment created in annaconda or miniconda, we can only
 <div align="center">
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/4c678ac8-2119-4cd7-a8bc-30ca63f6996b" width="400">  
 </div>
-
+**I hope to directly python any instead of conda active xx in python any**  
 
 ### 2.Use
 
@@ -19,8 +19,9 @@ In the virtual python environment created in annaconda or miniconda, we can only
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/409b8796-6955-409c-ad06-2576dbf87af0" width="600">  
 </div>
 3.check path
+
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="400">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/22a4a6d4-de29-44fa-bfcc-2b4b5959d99e" width="400">  
 </div>
 
 ### 3.Principle
@@ -31,7 +32,7 @@ Every time an environment variable is set using a batch file it checks if the pa
 <div align="center">
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/4c678ac8-2119-4cd7-a8bc-30ca63f6996b" width="400">  
 </div>
-
+**我希望直接python ...而不是conda active ... 在python ...**  
 ### 2.使用方法
 1.将.change_envs.bat文件放置在Annaconda或Miniconda的安装目录下的envs文件夹下，即可完成配置。
 <div align="center">
@@ -43,7 +44,7 @@ Every time an environment variable is set using a batch file it checks if the pa
 </div>
 3.检查环境变量是否设置成功
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="400">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/22a4a6d4-de29-44fa-bfcc-2b4b5959d99e" width="400">  
 </div>
 
 ### 3.原理
