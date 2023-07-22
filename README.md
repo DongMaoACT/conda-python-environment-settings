@@ -9,15 +9,15 @@ In the virtual python environment created in annaconda or miniconda, we can only
 
 1.Place the .change_envs.bat file in the envs folder under the installation directory of Annaconda or Miniconda to complete the configuration.  
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/fdf3c607-a80b-4025-a5c6-2d604b77d8d3" width="800">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/fdf3c607-a80b-4025-a5c6-2d604b77d8d3" width="600">  
 </div>
 2.Run the .change_envs.bat file and enter any virtual Python environment name that exists in your envs file to complete the PATH setting or replacement.  
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/409b8796-6955-409c-ad06-2576dbf87af0" width="800">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/409b8796-6955-409c-ad06-2576dbf87af0" width="600">  
 </div>
 3.check path
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="800">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="400">  
 </div>
 
 ### Principle
@@ -29,15 +29,15 @@ Every time an environment variable is set using a batch file it checks if the pa
 ### 使用方法
 1.将.change_envs.bat文件放置在Annaconda或Miniconda的安装目录下的envs文件夹下，即可完成配置。
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/fdf3c607-a80b-4025-a5c6-2d604b77d8d3" width="800">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/fdf3c607-a80b-4025-a5c6-2d604b77d8d3" width="600">  
 </div>
 2.运行.change_envs.bat文件，输入你的envs文件中存在的任意虚拟Python环境名称即可完成PATH的设置或者更换。  
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/409b8796-6955-409c-ad06-2576dbf87af0" width="800">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/409b8796-6955-409c-ad06-2576dbf87af0" width="600">  
 </div>
 3.检查环境变量是否设置成功
 <div align="center">
-<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="800">  
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/542c7131-bfdd-47c3-8adb-23f83e6a1a10" width="400">  
 </div>
 
 ### 原理
