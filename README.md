@@ -24,6 +24,10 @@ In the virtual python environment created in annaconda or miniconda, we can only
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/22a4a6d4-de29-44fa-bfcc-2b4b5959d99e" width="400">  
 </div>
 
+<div align="center">
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/201ab968-d171-4cd7-862f-118aeec5a1a3" width="400">  
+</div>
+
 ### 3.Principle
 Every time an environment variable is set using a batch file it checks if the path already exists in the PATH and deletes it if it does. Then place the set path at the top of PATH to give it the highest priority. In this way, you can switch the virtual python environment of conda at will.
 
@@ -46,6 +50,8 @@ Every time an environment variable is set using a batch file it checks if the pa
 <div align="center">
 <img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/22a4a6d4-de29-44fa-bfcc-2b4b5959d99e" width="400">  
 </div>
-
+<div align="center">
+<img src="https://github.com/DongMaoACT/conda-python-environment-settings/assets/81357596/201ab968-d171-4cd7-862f-118aeec5a1a3" width="400">  
+</div>
 ### 3.原理
 每次使用批处理文件设置环境变量时都会检查PATH中是否已经存在该路径，如果存在则删除它。然后将设置的路径放置在PATH的最上方，使它的优先级最高。这样就可以随意的切换conda的虚拟python环境了。
